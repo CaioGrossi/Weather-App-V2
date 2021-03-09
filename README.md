@@ -21,6 +21,10 @@ para instalar as dependencias
 yarn start ou npm start
 ```
 para executar o projeto.
+
+##Aviso
+Pela API de consulta de tempo ser gratuita, não há todas as localidades diferente da api de sugestão de lugar do google. Por isso ao pesquisar algum lugar você pode selecionar uma localidade que a API do google sugeriu mas que a API de climas não terá disponível, assim mostrará a localidade mais proxima.
+
 ## Estudado
 * React
 * Styled Components
