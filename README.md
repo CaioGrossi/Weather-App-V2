@@ -1,7 +1,7 @@
 # Weather App V2
 
 
-Aplicação feita para consulta de tempo de cidades, países. A aplicação utiliza  [Meta Weather API](https://www.metaweather.com/api/) para consulta dos dados de tempo e a [Places API](https://developers.google.com/maps/documentation/places/web-service/overview?hl=vi) do goole para sugestão de lugares. Com a pesquisa é apresentado dados como temperaturas, visibilidade, pressão do ar, informações do clima para os proximos cinco dias.
+Aplicação feita para consulta de tempo de cidades, países. A aplicação utiliza  [Meta Weather API](https://www.metaweather.com/api/) para consulta dos dados de tempo e a [Places API](https://developers.google.com/maps/documentation/places/web-service/overview?hl=vi) do goole para sugestão de lugares. Com a pesquisa é apresentado dados como temperaturas, visibilidade, pressão do ar, informações do clima para os proximos cinco dias. Foi explorado conceitos do React mas principalmente integração com bibliotecas externas como a para manipulação dos dados retornados da API de lugares do Google.
 
 <p align="center">
   <img src="/demo/weather-gif.gif" />
